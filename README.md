@@ -8,6 +8,13 @@ Trechos de código estarão demarcados como o exemplo abaixo:
 const programmer = true;
 ```
 
+## Aulas:
+
+- [Aula 00](https://github.com/wilkerviana/javascript_basics/blob/master/aula_00.md): Introdução à `variáveis` e `estruturas condicionais`
+- [Aula 01](https://github.com/wilkerviana/javascript_basics/blob/master/aula_01.md): Introdução à `Arrays`
+
+---
+
 A intenção é compartilhar conhecimento e experiência para ajudar outras pessoas.
 Fique à vontade para consumir e contribuir com conteúdo também.
 
