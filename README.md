@@ -12,6 +12,7 @@ const programmer = true;
 
 - [Aula 00](https://github.com/wilkerviana/javascript_basics/blob/master/aula_00.md): Introdução à `variáveis` e `estruturas condicionais`
 - [Aula 01](https://github.com/wilkerviana/javascript_basics/blob/master/aula_01.md): Introdução à `Arrays`
+- [Aula 02](https://github.com/wilkerviana/javascript_basics/blob/master/aula_02.md): Introdução à `Objetos`
 
 ---
 
