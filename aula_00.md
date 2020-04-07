@@ -54,6 +54,7 @@ var ano = 2 * '1010';
 *Uma expressão (premissa) que pode ser avaliada como verdadeira (true) ou falsa (false).<br>
 A condicional **if**  é uma estrutura condicional que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de **else**.*
 
+**If and Else**
 ```
 var idade = 20;
 
@@ -62,4 +63,23 @@ if (idade > 60) {
 } else {
     console.log('Seja responsável, fique em casa')
 }
+```
+
+**Switch**
+```
+function checkCountry(country) {
+  switch(country) {
+    case 'Brazil':
+      console.log('South America');
+      break;
+    case 'USA':
+      console.log('North America');
+      break;
+    default:
+      console.log('Not America');
+      break;
+    }
+}
+
+checkCountry('China')
 ```
